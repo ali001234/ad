@@ -1,0 +1,26 @@
+{
+    "Settings": {
+        "useTgBot": false,
+        "tgBOToken": "",
+        "tgChatID": [],
+        "AutoUpgrade": true,
+        "id_template": 0
+    },
+    "Timings": {
+        "start_acc_timeout": 120,
+        "auto_claim_min": 3600,
+        "auto_claim_max": 7200,
+        "paint_min": 1200,
+        "paint_max": 1800,
+        "auto_update_min": 3600,
+        "auto_update_max": 7200
+    },
+    "Accs": {
+        "Ter": {
+            "proxy": "",
+            "Upgrade_reChargeSpeed": true,
+            "Upgrade_energyLimit": true,
+            "Upgrade_paintReward": true
+        }
+    }
+}
